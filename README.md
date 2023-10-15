@@ -1,4 +1,4 @@
 # AR-VR-development
 
 ## Scripts
-[Detect VR](Unity/Unity Scripts/DetectVR.cs)
+[detect vr](https://github.com/sankethgowda06/AR-VR-development/blob/main/Unity/Unity%20Scripts/DetectVR.cs)
